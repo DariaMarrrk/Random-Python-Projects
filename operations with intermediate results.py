@@ -8,7 +8,7 @@ while i != 0:
     i = int(input())
 
 def operation(x, y):
-    return(x-y)
+    return(x+y)
 
 Found = False
 adding_to = inputs[len(inputs)-1] 
